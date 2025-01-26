@@ -1,16 +1,14 @@
 # Hi there, I'm Olga 👋
-## Web developer from Russia
+### Web developer from Russia
 
-<!--
-**olgaturova/olgaturova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💞️ Eat(); Sleep(); Code(); Repeat();  
+👀 I'm interested in software development.  
+🌱 I'm currently improving my skills in MERN stack and Flutter.  
+
+## Skills and Experience:
+
+## Front-End Development
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
